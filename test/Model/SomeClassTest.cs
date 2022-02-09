@@ -3,6 +3,7 @@ using DotNetBlank.Model;
 
 namespace DotNetBlank.Tests.Model
 {
+    [TestFixture]
     public class SomeClassTest
     {
         [SetUp]
